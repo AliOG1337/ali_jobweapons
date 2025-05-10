@@ -13,6 +13,9 @@ A FiveM resource for ESX that provides job-based weapon restrictions. Control wh
 ## Dependencies
 - es_extended (ESX)
 
+## Performance (Resource Monitor)
+![grafik](https://i.imgur.com/Q1WiJjv.png)
+
 ## Installation
 
 1. Download the resource
